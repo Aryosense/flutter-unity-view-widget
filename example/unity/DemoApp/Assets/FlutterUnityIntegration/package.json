@@ -2,9 +2,11 @@
   "name": "com.xraph.flutterunitywidget",
   "displayName": "Flutter Unity Widget",
   "version": "6000.0.3",
-  "unity": "6000.0",
-  "unityRelease": "31f1",
+  "unity": "2019.4",
+  "license": "BSD-3-Clause",
+  "licensesUrl": "https://github.com/juicycleff/flutter-unity-view-widget/blob/master/LICENSE",
   "documentationUrl": "https://github.com/juicycleff/flutter-unity-view-widget",
+  "changelogUrl": "https://github.com/juicycleff/flutter-unity-view-widget/tree/master/unitypackages",
   "author": {
     "name": "xraph.com",
     "url": "https://github.com/juicycleff"
